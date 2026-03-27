@@ -79,5 +79,3 @@ The analysis shows that online learning platforms are widely used for career adv
 
 ## Author
 Shruti Suryan
-Shruti Suryan
-BCA Graduate | Aspiring Data Analyst / MIS Executive
